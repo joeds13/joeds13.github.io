@@ -2,11 +2,11 @@
 title: JoeDS13
 email: joedstringer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Attempting Sysadmin
+  http://www.joestringer.co.uk
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://joeds13.github.io" # the base hostname & protocol for your site
+url: "https://joeds13.github.io" # the base hostname & protocol for your site
 twitter_username: joeds13
-github_username:  joeds13
+github_username: joeds13
 
 # Build settings
 markdown: kramdown
