@@ -10,3 +10,5 @@ github_username:  joeds13
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-hacker
